@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571241626 source:c:\ojpset\charactertest_special_judge\main.cpp
+	<iostream>
+	<ctime>
+

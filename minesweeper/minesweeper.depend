@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571325543 source:c:\ojpset\minesweeper\main.cpp
+	<iostream>
+	<cstdio>
+
